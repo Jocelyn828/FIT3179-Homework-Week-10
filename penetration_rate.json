@@ -1,5 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": { "text": "Penetration Rates in Malaysia (2019–2023)" },
     "width": 800,
     "height": 400,
     "data": {
